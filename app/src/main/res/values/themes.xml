@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ConnectHub" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">?attr/colorSurfaceContainer</item>
+        <item name="colorPrimary">#2350D8</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#DCE1FF</item>
+        <item name="colorOnPrimaryContainer">#00164E</item>
+        <item name="colorSecondaryContainer">#DDE1F9</item>
+        <item name="colorOnSecondaryContainer">#161B2C</item>
+    </style>
+</resources>

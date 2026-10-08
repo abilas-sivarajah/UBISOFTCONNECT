@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Connect Hub</string>
+
+    <string name="nav_start">Home</string>
+    <string name="nav_discover">News</string>
+    <string name="nav_store">Store</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_help">Help</string>
+
+    <string name="welcome_title">Your Ubisoft account on Android</string>
+    <string name="welcome_text">Sign in with your Ubisoft account to manage your profile, security, Units, purchases and Ubisoft+. You sign in on Ubisoft\'s own page, so two-step verification works as usual.</string>
+    <string name="sign_in">Sign in / My account</string>
+    <string name="shortcuts_header">Quick access</string>
+    <string name="disclaimer">Unofficial app, not affiliated with or endorsed by Ubisoft. Ubisoft and Ubisoft Connect are trademarks of Ubisoft Entertainment. The app only shows Ubisoft\'s official websites and never sees or stores your password.</string>
+
+    <string name="shortcut_account">My account</string>
+    <string name="shortcut_account_sub">Profile, security, 2-step verification</string>
+    <string name="shortcut_units">Units &amp; rewards</string>
+    <string name="shortcut_units_sub" formatted="false">20% store discount for 100 Units</string>
+    <string name="shortcut_ubisoft_plus">Ubisoft+</string>
+    <string name="shortcut_ubisoft_plus_sub">Manage your subscription</string>
+    <string name="shortcut_free_games">Free games</string>
+    <string name="shortcut_free_games_sub">Giveaways, trials and betas</string>
+    <string name="shortcut_games">All games</string>
+    <string name="shortcut_games_sub">Ubisoft game catalog</string>
+    <string name="shortcut_siege_stats">Rainbow Six Siege</string>
+    <string name="shortcut_siege_stats_sub">Career and stats</string>
+    <string name="shortcut_server_status">Server status</string>
+    <string name="shortcut_server_status_sub">Are the game servers up?</string>
+    <string name="shortcut_support">Contact support</string>
+    <string name="shortcut_support_sub">Open a ticket or chat</string>
+    <string name="shortcut_pc_app">Ubisoft Connect for PC</string>
+    <string name="shortcut_pc_app_sub">Download the desktop app</string>
+
+    <string name="action_reload">Reload</string>
+    <string name="action_open_browser">Open in browser</string>
+    <string name="action_share">Share link</string>
+    <string name="action_desktop">Desktop site</string>
+    <string name="action_sign_out">Sign out and clear data</string>
+    <string name="action_about">About</string>
+
+    <string name="error_title">Page could not be loaded</string>
+    <string name="retry">Try again</string>
+    <string name="close">Close</string>
+    <string name="no_app_found">No app found to open this link</string>
+
+    <string name="sign_out_title">Sign out?</string>
+    <string name="sign_out_message">This removes your Ubisoft session, cookies and cached pages from this app.</string>
+    <string name="sign_out_confirm">Sign out</string>
+    <string name="signed_out">Signed out</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="about_title" translatable="false">%1$s %2$s</string>
+    <string name="about_message">An unofficial replacement for the discontinued Ubisoft Connect Android app.\n\nThe app opens Ubisoft\'s official websites (account, store, news and help) in one place and keeps you signed in. It has no servers of its own and sends no data anywhere else.\n\nNot affiliated with or endorsed by Ubisoft. Ubisoft and Ubisoft Connect are trademarks of Ubisoft Entertainment.</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_start">Start</string>
+    <string name="nav_discover">News</string>
+    <string name="nav_store">Store</string>
+    <string name="nav_account">Konto</string>
+    <string name="nav_help">Hilfe</string>
+
+    <string name="welcome_title">Dein Ubisoft-Konto auf Android</string>
+    <string name="welcome_text">Melde dich mit deinem Ubisoft-Konto an, um Profil, Sicherheit, Units, Käufe und Ubisoft+ zu verwalten. Die Anmeldung läuft über Ubisofts eigene Seite – die Zwei-Faktor-Authentifizierung funktioniert wie gewohnt.</string>
+    <string name="sign_in">Anmelden / Mein Konto</string>
+    <string name="shortcuts_header">Schnellzugriff</string>
+    <string name="disclaimer">Inoffizielle App, nicht mit Ubisoft verbunden oder von Ubisoft unterstützt. Ubisoft und Ubisoft Connect sind Marken von Ubisoft Entertainment. Die App zeigt nur die offiziellen Ubisoft-Webseiten an und sieht oder speichert niemals dein Passwort.</string>
+
+    <string name="shortcut_account">Mein Konto</string>
+    <string name="shortcut_account_sub">Profil, Sicherheit, 2-Faktor</string>
+    <string name="shortcut_units">Units &amp; Belohnungen</string>
+    <string name="shortcut_units_sub" formatted="false">20 % Store-Rabatt für 100 Units</string>
+    <string name="shortcut_ubisoft_plus">Ubisoft+</string>
+    <string name="shortcut_ubisoft_plus_sub">Abo verwalten</string>
+    <string name="shortcut_free_games">Kostenlose Spiele</string>
+    <string name="shortcut_free_games_sub">Gratis-Aktionen, Testversionen, Betas</string>
+    <string name="shortcut_games">Alle Spiele</string>
+    <string name="shortcut_games_sub">Ubisoft-Spielekatalog</string>
+    <string name="shortcut_siege_stats">Rainbow Six Siege</string>
+    <string name="shortcut_siege_stats_sub">Karriere und Statistiken</string>
+    <string name="shortcut_server_status">Serverstatus</string>
+    <string name="shortcut_server_status_sub">Laufen die Spieleserver?</string>
+    <string name="shortcut_support">Support kontaktieren</string>
+    <string name="shortcut_support_sub">Ticket oder Chat starten</string>
+    <string name="shortcut_pc_app">Ubisoft Connect für PC</string>
+    <string name="shortcut_pc_app_sub">Desktop-App herunterladen</string>
+
+    <string name="action_reload">Neu laden</string>
+    <string name="action_open_browser">Im Browser öffnen</string>
+    <string name="action_share">Link teilen</string>
+    <string name="action_desktop">Desktop-Ansicht</string>
+    <string name="action_sign_out">Abmelden und Daten löschen</string>
+    <string name="action_about">Über die App</string>
+
+    <string name="error_title">Seite konnte nicht geladen werden</string>
+    <string name="retry">Erneut versuchen</string>
+    <string name="close">Schließen</string>
+    <string name="no_app_found">Keine App zum Öffnen dieses Links gefunden</string>
+
+    <string name="sign_out_title">Abmelden?</string>
+    <string name="sign_out_message">Damit werden deine Ubisoft-Sitzung, Cookies und zwischengespeicherte Seiten aus dieser App entfernt.</string>
+    <string name="sign_out_confirm">Abmelden</string>
+    <string name="signed_out">Abgemeldet</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+
+    <string name="about_message">Ein inoffizieller Ersatz für die eingestellte Ubisoft-Connect-App für Android.\n\nDie App bündelt die offiziellen Ubisoft-Webseiten (Konto, Store, News und Hilfe) an einem Ort und hält dich angemeldet. Sie hat keine eigenen Server und sendet keine Daten an andere Stellen.\n\nNicht mit Ubisoft verbunden oder von Ubisoft unterstützt. Ubisoft und Ubisoft Connect sind Marken von Ubisoft Entertainment.</string>
+</resources>
